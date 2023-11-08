@@ -21,4 +21,6 @@ Convidamos você a explorar o novo site, que já está disponível para acesso e
 
 Agradeço à Cinco Estrelas Transporte Turismo LTDA por proporcionar a oportunidade de trabalhar nesse emocionante projeto. Esperamos que você desfrute da nova experiência online da Pousada "A Vila do Pirata".
 
+<img src="https://github.com/GulinBro/VilaDoPirata/blob/main/AVilaDoPirata.png" alt = "Imagem da parte inicial do site"> 
+
 
